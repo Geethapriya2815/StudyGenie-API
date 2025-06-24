@@ -2,7 +2,7 @@
 
 A RESTful API built with **FastAPI** that simulates a Gemini-style AI study assistant for students. It allows students to register, ask academic questions, summarize notes, create study plans, and track their progress.
 
----
+----
 
 ## 🚀 Features
 
