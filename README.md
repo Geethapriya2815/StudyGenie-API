@@ -14,7 +14,7 @@ A RESTful API built with **FastAPI** that simulates a Gemini-style AI study assi
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 * **Python 3.9+**
 * **FastAPI** - Web framework for building APIs
