@@ -5,7 +5,6 @@ A RESTful API built with **FastAPI** that simulates a Gemini-style AI study assi
 ----
 
 ## 🚀 Features!
-
 * 📌 Register student profiles
 * 🤖 Ask academic questions and get simulated AI answers
 * 📝 Summarize long study notes
